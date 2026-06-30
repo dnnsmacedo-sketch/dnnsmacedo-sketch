@@ -1,4 +1,4 @@
-# Olá, eu sou o [Dennis Ribeiro] 👋
+7# Olá, eu sou o [Dennis Ribeiro] 👋
 
 ## 🚀 Sobre Mim
 Estou em transição/evolução na área de tecnologia, focando meus esforços em dominar o desenvolvimento com Python e o vasto ecossistema da Inteligência Artificial Generativa. Acredito no poder da automação e de soluções inteligentes para resolver problemas reais.
@@ -27,9 +27,11 @@ No momento, estou imerso nos seguintes tópicos:
 ## 💪 Experiência Com
 > 💡 *Dica: Adicione aqui suas experiências anteriores ou outras habilidades que você já possui (ex: Atendimento ao cliente, Design, Outras linguagens, Gestão de Projetos, etc.).*
 
-*   [tecnico automotivo ]
-*   [Sua Experiência 2]
-*   [Sua Experiência 3]
+*   [Mecânico Automotivo
+Diagnóstico Eletrônico
+Sistemas Elétricos Automotivos
+Veículos Premium (BMW, Land Rover, Volvo e Mercedes-Benz)
+Atendimento Técnico ao Cliente]
 
 ---
 
