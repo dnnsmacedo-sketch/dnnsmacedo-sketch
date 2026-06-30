@@ -27,11 +27,11 @@ No momento, estou imerso nos seguintes tópicos:
 ## 💪 Experiência Com
 > 💡 *Dica: Adicione aqui suas experiências anteriores ou outras habilidades que você já possui (ex: Atendimento ao cliente, Design, Outras linguagens, Gestão de Projetos, etc.).*
 
-*   [Mecânico Automotivo
-Diagnóstico Eletrônico
-Sistemas Elétricos Automotivos
-Veículos Premium (BMW, Land Rover, Volvo e Mercedes-Benz)
-Atendimento Técnico ao Cliente]
+*    Mecânico Automotivo
+*    Diagnóstico Eletrônico
+*    Sistemas Elétricos Automotivos
+*    Veículos Premium (BMW, Land Rover, Volvo e Mercedes-Benz)
+Atendimento Técnico ao Cliente.
 
 ---
 
