@@ -1,4 +1,4 @@
-# Olá, eu sou o [Dennis Ribeiro Macedo Lima]! 👋
+# Olá, eu sou o [Dennis Ribeiro] 👋
 
 ## 🚀 Sobre Mim
 Estou em transição/evolução na área de tecnologia, focando meus esforços em dominar o desenvolvimento com Python e o vasto ecossistema da Inteligência Artificial Generativa. Acredito no poder da automação e de soluções inteligentes para resolver problemas reais.
